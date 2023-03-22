@@ -1,8 +1,6 @@
-def plus(s):
-    s = 2+3
-    return s
+def plus():
+    return 2+3
 
-def minus(v):
-    v = 5-2
-    return v
+def minus():
+    return 9-3
 
