@@ -2,8 +2,8 @@
 Функия которая принимает на ввод и делает все буквы заглавные
 пыщь пыщь с пайчарма
 """
-some_func = input().upper()
-print(f"{some_func}")
+first_func = input().upper()
+print(f"{first_func}")
 
 
 """
